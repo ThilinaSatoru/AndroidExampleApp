@@ -6,18 +6,18 @@
         android:title="Home" />
     <item
         android:id="@+id/menu_about"
-        android:icon="@drawable/ic_home"
+        android:icon="@drawable/ic_about"
         android:title="About" />
     <item
         android:id="@+id/menu_help"
-        android:icon="@drawable/ic_home"
+        android:icon="@drawable/ic_help"
         android:title="Help" />
     <item
         android:id="@+id/menu_add_product"
-        android:icon="@drawable/ic_home"
-        android:title="Add Product" />
+        android:icon="@drawable/ic_add"
+        android:title="Add" />
     <item
         android:id="@+id/menu_view_products"
-        android:icon="@drawable/ic_home"
-        android:title="View Products" />
+        android:icon="@drawable/ic_view"
+        android:title="View" />
 </menu>
